@@ -14,7 +14,7 @@ I'm an enthusiastic programmer with a strong interest in  web development. I enj
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Uzair2583&show_icons=true&theme=radical)
 
 - **Public Repositories:** 2
-- **Followers:** 0
+- **Followers:** 1
 - **Following:** 1
 
 ## Latest Blog Posts
