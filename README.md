@@ -26,6 +26,6 @@ Currently, I do not have any blog posts or articles published.
 <a href="progre06@gmail.com" target="_blank" rel="noopener noreferrer"><Icon /> Click here to contact me</a>
 ###
 
-<img align="right" height="150" src="https://media1.tenor.com/m/KMFQut1j8KwAAAAd/scaler-create-impact.gif"  />
+<img align="left" height="150" src="https://media1.tenor.com/m/KMFQut1j8KwAAAAd/scaler-create-impact.gif"  />
 
 ###
