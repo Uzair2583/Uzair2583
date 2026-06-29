@@ -8,7 +8,7 @@ I'm an enthusiastic programmer with a strong interest in  web development. I enj
 
 ## Skills & Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,git,github,nextjs,js,react&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,git,github,nextjs,js,react,python&perline=8)](https://skillicons.dev)
 
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Uzair2583&show_icons=true&theme=radical)
